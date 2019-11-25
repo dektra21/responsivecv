@@ -1,0 +1,9 @@
+{
+    "name": "dektra21/responsivecv",
+    "description": "ASIAP",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    }
+}
